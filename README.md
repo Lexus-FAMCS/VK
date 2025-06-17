@@ -64,5 +64,7 @@
    Для решения задачи регресии использовалась кастомная сеть TimeNet.
    <img src="https://github.com/Lexus-FAMCS/VK/blob/master/TimeNet.png" width="500">
 
+P.S. Весь код находится в vk.ipynb
+
 ## Результаты
 
