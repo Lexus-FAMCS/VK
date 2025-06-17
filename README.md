@@ -67,4 +67,4 @@
 P.S. Весь код находится в vk.ipynb
 
 ## Результаты
-
+Результаты сохранены в файлах train_results.csv и test_results.csv
